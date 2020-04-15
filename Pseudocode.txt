@@ -1,0 +1,8 @@
+RetailPrice:
+set rate to 2.5
+Prompt user for amount of items in the shipment to set
+the amount of times the loop needs to run.
+Insert formula in the loop.
+Prompt the user for the wholesale cost of each product
+and print the retail cost.
+When out of products in shipment end program.
